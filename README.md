@@ -1,1 +1,1 @@
-# modern-react-app-sample
+# react-redux-app-sample
